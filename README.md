@@ -1,4 +1,4 @@
-# sphshop-client
+# gshop-client
 
 ## Project setup
 ```
